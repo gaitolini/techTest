@@ -40,10 +40,12 @@ func main() {
 
 ### 🔄 O que aprendemos?
 - Como usar o Playground Go para testar código Go sem instalar nada.
-
 - Como somar números de 1 a 13 com um simples loop for em Go.
-- Que a soma dos números de 1 a 13 é 91!
-## 🚀 Alternativa: Executando no ambiente local
-Caso prefira executar o código no seu computador, siga as etapas anteriores para configurar o Go localmente e usar o VS Code, conforme mostrado anteriormente. O Playground Go é uma ótima ferramenta para testes rápidos, mas para projetos maiores, rodar o código localmente pode ser mais adequado.
-
+- Que a soma dos números de 1 a 13 é 91!1
 ---
+## 📲 Contato
+Caso tenha dúvidas ou sugestões, entre em contato comigo:
+
+ - Email: gaitolini@gmail.com
+ - LinkedIn: [Anderson Gaitolini](https://www.linkedin.com/in/andersongaitolini/)
+ - Whatsapp: [Me adicione no WhatsApp](https://wa.me/qr/CFND4RGOJHHUN1)

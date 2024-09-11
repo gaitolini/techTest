@@ -122,12 +122,12 @@ O resultado do programa será exibido abaixo do editor. O programa retornará o 
 Caso prefira executar o código no seu computador:
 
 - Instale o Go.
-- Crie um arquivo chamado faturamento.go e cole o código acima.
+- Crie um arquivo chamado main.go e cole o código acima.
 - No terminal, navegue até o diretório onde o arquivo está salvo.
 - Execute o programa com o comando:
 
 ~~~~bash
-go run faturamento.go
+go run main.go
 ~~~~
 
 ## 📲 Contato

@@ -41,7 +41,7 @@ if (fibonacci(parseInt(numero))) {
     console.log(`O número ${numero} não pertence à sequência de Fibonacci.`);
 }
 ```
-
+---
 ## 📲 Contato
 Caso tenha dúvidas ou sugestões, entre em contato comigo:
 

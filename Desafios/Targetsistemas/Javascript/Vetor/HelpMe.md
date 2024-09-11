@@ -89,7 +89,7 @@ O PlayCode.io executa o código automaticamente. Se não executar, clique no bot
 ### 5️⃣ Veja o resultado no painel de saída 🎉
 O resultado do código será exibido no console. O programa retornará o menor, o maior valor de faturamento, e quantos dias tiveram faturamento acima da média mensal.
 
-![playcode](.\image.png)
+![playcode](image.png)
 
 ## 🔄 O que aprendemos?
 - Como carregar e manipular dados de faturamento de um JSON em JavaScript.

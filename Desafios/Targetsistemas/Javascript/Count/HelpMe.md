@@ -28,7 +28,7 @@ while (K < INDICE) {
 
 console.log("O valor final da soma dos números de 1 a", INDICE, "é:", SOMA);
 ```
-
+---
 ## 📲 Contato
 Caso tenha dúvidas ou sugestões, entre em contato comigo:
 
