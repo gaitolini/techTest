@@ -5,7 +5,7 @@ Bem-vindo ao repositório de Testes Lógicos de Programação!
 Este repositório foi criado para compartilhar minhas habilidades em lógica de programação, especialmente para entrevistas técnicas. 
 Aqui, você encontrará desafios de lógica implementados em diversas linguagens, focando em Golang, JavaScript, Delphi, SQL e até em pseudocódigos. 
 
-Estes exercícios são demonstrar aos recrutadore as minhas habilidades de raciocínio lógico e programação enquanto me prepara para uma oportunidae!
+Estes exercícios são para demonstrar aos recrutadores as minhas habilidades de raciocínio lógico e programação enquanto me prepara para uma oportunidae!
 
 ✨ Objetivos do Projeto
  - 💻 Demonstrar habilidades de resolução de problemas: cada desafio aborda problemas comuns em entrevistas técnicas.
